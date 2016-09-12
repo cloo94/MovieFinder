@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_main" tools:context=".MainActivity"
+    android:background="@drawable/movie_theatre">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/main_text1"
+        android:id="@+id/textView1"
+        android:layout_marginTop="38dp"
+        android:textSize="40sp"
+        android:textColor="#ffffff"
+        android:password="false"
+        android:typeface="serif"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/main_text2"
+        android:id="@+id/textView2"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:password="false"
+        android:typeface="serif"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/textView1"/>
+<!--
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:imeOptions="actionNone"
+        android:hint="Zip Code"
+        android:textColorHint="#ffffff"
+        android:textColor="#ffffff"
+        android:textCursorDrawable="@null"
+        android:backgroundTint="#ffffff"
+        android:id="@+id/zipText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/textView2"/>
+
+    <SearchView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/searchView1"
+        android:background="#ffffff"
+        android:baselineAligned="false"
+        android:queryHint="Search for a movie title"
+        android:layout_below="@+id/zipText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp" /> -->
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/black"
+        android:orientation="vertical"
+        android:id="@+id/table1"
+        android:layout_below="@+id/textView2"
+        android:gravity="center">
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".25"
+            android:background="@android:color/white"
+            android:inputType="number"
+            android:layout_margin="1dip"
+            android:hint="Zip Code"
+            android:id="@+id/zipText"/>
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".75"
+            android:background="@android:color/white"
+            android:layout_margin="1dip"
+            android:hint="Search for a movie title"
+            android:inputType="text"
+            android:id="@+id/movie"/>
+    </TableRow>
+
+    <Spinner
+        android:id="@+id/dates"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_dropdown"
+        android:spinnerMode="dropdown"
+        android:layout_below="@+id/table1"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/main_button1"
+        android:id="@+id/button"
+        android:onClick="onClick"
+        android:layout_marginTop="31dp"
+        android:layout_below="@+id/dates"
+        android:layout_centerHorizontal="true"
+        android:typeface="serif"
+        android:textStyle="bold" />
+
+    <!--
+     -->
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Chris/AndroidStudioProjects/MovieFinder/app/src/main/res/layout/content_main.xml -->

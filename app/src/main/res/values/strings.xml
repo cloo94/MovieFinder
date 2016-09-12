@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieFinder</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_text1">MOVIE FINDER</string>
+    <string name="main_text2">Enter a zip code (your current coordinates will be used if no zip code is provided) and choose
+    a date to search for movie times!</string>
+    <string name="main_button1">Find Local Movies</string>
+    <string name="main_button2">Find Movie Suggestions</string>
+    <string name="title_activity_movie_map">Map</string>
+</resources>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-3d3294a151dab8f5e1031b30aa96ca0c17f668f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-4857f3f20af54340f0862ea580cd4e8f43940081.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-33ea4f94b91c8d19e82a3ba44767e2588f8dbe24.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-e2442fc0a6573ff86c47ca4059e87b84020c7356.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-9a411f1753ebc09736ea4620532c1aba8c14815a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-0737a111f44c07f37ba5f27d5125899226aec607.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-9caf48eaea53aa22f7d8ce5e58f541fb4c1fa557.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-cf37d82fb061f026aac07de9adcae1e6d437c8e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-246a97697a1543216e11df7fea31837ccb2dd7b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-73d0c2641ab00acac8d78a71f5e10fcfcae51462.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\.gradle\caches\modules-2\files-2.1\org.immutables\gson\2.1.0\345340de0fb3a8de67ceae4f602fe70f4290e9e2\gson-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="345340de0fb3a8de67ceae4f602fe70f4290e9e2">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\gson-2.1.0-cf0ccdcc263459fef93c2f2f5ae4d01b195ea51a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-dba834b93a73400daf976b8e7d90d7beee6d0809.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\gson-2.3.1-f910c695a05a9c22150ed571b5b4b1a66769d90c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-41e776dca1bad79a772b3406ee1a1a7ad24a468f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-98622f9d031e1c9d6b041f4265c935b09db77eec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-898a2401338484d6238fe6cbd9d4fbf8dda4fa3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-9c8626c73cab54e870057ed4c3de874b88cfbe53.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-34396ed8501d49c9e6beeebd7b6b51e9316aa572.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-7c6d841bc5130b18b796ec44398d3540ff506a4b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-dd8cf577eac6fc9dee1bcf6af0baae0ee2b734f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-246f26a590d08648e2c55da97b1c2526dccdd3b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-230d9aee69b38fdbf3a084f70ce6ebf42e9532b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6-6d8a6a8e93d40dd86db95de59f460252bcb5c4cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-9cd69ef29e9d3bb2f2fa5e2063cfe8afd57cb931.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-fff8640392909fceefeacad3a9ec70245f235d5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-818ac71a5bd57b0bafa67ad8a81a2be1e195a745.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-3a88f396b815eded0f7cc37c3461d691925e3761.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-2f9bfd337a58483cb9f8027c8b826a2ecef95696.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-31614490f8c2d5da996735b581e3a40acad9c3f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9-d2817720ebd96c4f900d5d357f2bc8aa395c9091.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-1060dd8c57695663940b93f289ed0e6a3d7c22c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-adbc6bdb7df6d2966cf9e8d74cb19622d997bf60.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\Chris\AndroidStudioProjects\MovieFinder\app\build\intermediates\pre-dexed\debug\classes-20e6667152fb205fe07a4be448fbf3d1f57c2846.jar" />
+    </item>
+
+</items>
